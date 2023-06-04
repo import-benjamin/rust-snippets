@@ -2,5 +2,6 @@
 members = [
   "actix-rest-api",
   "wasm-snake-game",
-  "input-output-experiment"
+  "input-output-experiment",
+  "git2-binding"
 ]
