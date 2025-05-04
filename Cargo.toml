@@ -5,5 +5,6 @@ members = [
   "input-output-experiment",
   "git2-binding",
   "georust-experiment",
-  "gtk-experiment"
+  #"gtk-experiment",
+  "advent-of-code-2023"
 ]
